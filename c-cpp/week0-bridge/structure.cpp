@@ -30,12 +30,14 @@ struct Rectangle
 int main()
 {
     struct Rectangle r = {10,5};
+    int a;
 
     // printf("Size of struct is %d\n", sizeof(r)); //This will give error of
     // type "long unsigned int", so use %ld and not %d
     printf("Size of struct is %ld\n", sizeof(r));
     printf("Size Bad of struct is %ld\n", sizeof(B));
     printf("Size Good of struct is %ld\n", sizeof(G));
+    printf("%d", &a);
 
     
     return 0;
