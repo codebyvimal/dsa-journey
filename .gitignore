@@ -1,0 +1,19 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.la
+*.lo
+*.so
+*.dll
+*.dylib
+
+# IDE or build directories (Optional)
+.vscode/
+build/
+cmake-build-debug/
