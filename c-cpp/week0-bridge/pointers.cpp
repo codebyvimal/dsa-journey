@@ -36,6 +36,8 @@ int main()
     delete [] p; //in CPP
     // free(p); // in C
 
+    cout<<sizeof(*p); // Let's see pointer size.
+
     return 0;
     
 }
