@@ -1,19 +1,23 @@
 #include <iostream>
 using namespace std;
 
-int add(int a,int b)
+// Let me code something that uses all 3 parameter passing methods
+
+int square(int a, int *b, int &c)
 {
-int c;
-c = a+b;
-return c;
-}
+    a = a*a; // Passed by value
+    *b = (*b) * (*b); // Passed by Address
+    c = c*c; // Passed By Reference
+    return 0;
+};
 
-int main()
-{
-int num1=10,num2=15,sum;
+int main(){
+    int num1 = 1;
+    int num2 = 2;
+    int num3 = 3;
 
-sum = add(num1,num2);
-
-cout<<"Sum is "<<sum;
-return 0;
+    cout<<num1<<" "<<num2<<" "<<num3<<endl;
+    square(num1,&num2,num3);
+    cout<<num1<<" "<<num2<<" "<<num3<<endl;
+    
 }
