@@ -21,3 +21,4 @@ int main(){
     cout<<num1<<" "<<num2<<" "<<num3<<endl;
     
 }
+
