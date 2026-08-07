@@ -4,7 +4,7 @@
 using namespace std;
 
 // Array as a Parameter
-void fun(int A[ ],int n) // parameter A[] is a pointer.
+void fun(int A[ ],n) // parameter A[] is a pointer.
 // You can also use *A, no need to change any other, it just works.
 {
     cout<<sizeof(A)/sizeof(int)<<endl; // This will be 8/4=2. A is pointer.
