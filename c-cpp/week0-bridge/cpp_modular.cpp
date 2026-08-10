@@ -1,4 +1,4 @@
-// simple Modular/Procedural program using class to find perimeter and area of rectangle
+// simple Modular/Procedural program to find perimeter and area of rectangle
 // We just separate the functions we do as actual functions.
 #include <iostream>
 #include<stdio.h>

@@ -1,4 +1,4 @@
-// simple Monolithic program using class to find perimeter and area of rectangle
+// simple Monolithic program to find perimeter and area of rectangle
 
 #include <iostream>
 #include<stdio.h>
