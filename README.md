@@ -126,6 +126,6 @@ g++ -std=c++17 -Wall -Wextra -O2 c-cpp/week0-bridge/rectangleOOP.cpp -o solution
 I am documenting this journey publicly to stay accountable and share learnings with fellow developers.
 
 - 💬 Suggestions or better approaches? Feel free to open an issue or start a discussion!
-- 🔗 Connect on **[LinkedIn](https://www.linkedin.com)**
+- 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/codebyvimal)**
 
 
