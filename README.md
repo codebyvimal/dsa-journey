@@ -1,115 +1,131 @@
-# 📚 DSA Weekly Plans — Master Index
+# 🚀 16-Week Data Structures & Algorithms Roadmap
 
-> **~18–20 weeks total** · Abdul Bari + CS50X C + LeetCode  
-> Target: Land a **40–60 LPA product-based role**
+[![Language: C/C++](https://img.shields.io/badge/Language-C%20%2F%20C%2B%2B-blue.svg)](https://isocpp.org/)
+[![Curriculum: Abdul Bari + CS50x](https://img.shields.io/badge/Curriculum-Abdul%20Bari%20%2B%20CS50x-orange.svg)](#-curriculum--resources)
+[![LeetCode: 150+ Problems](https://img.shields.io/badge/LeetCode-150%2B%20Problems-yellow.svg)](#-curriculum--resources)
+[![Progress: 16 Weeks](https://img.shields.io/badge/Duration-16%20Weeks-green.svg)](#-16-week-master-index)
+[![Status: Active](https://img.shields.io/badge/Status-In%20Progress-brightgreen.svg)](#-progress-tracker)
 
----
+A structured, code-first repository documenting a 16-week deep dive into **Data Structures & Algorithms** using **C** and **C++**. 
 
-## 🗺️ How This Folder Works
-
-Each week is a single `.md` file. Open it on Monday morning, work through it during the week, and tick off checkboxes as you go. That's it.
-
-| File | Week | Topic |
-|------|------|-------|
-| [week-0.md](week-0.md) | Week 0 | C/C++ Bridge + CS50X Week 1 — Setup & Language Basics |
-| [week-1.md](week-1.md) | Week 1 | Recursion (Abdul Bari §4 Intro + §5) |
-| [week-2.md](week-2.md) | Week 2 | Arrays — Representations + Array ADT (§6–7) |
-| [week-3.md](week-3.md) | Week 3 | Strings, Matrices, Sparse Matrix/Polynomial (§8–10) |
-| [week-4.md](week-4.md) | Week 4 | CS50X Week 4 (Memory) · Linked List starts (§11–12) |
-| [week-5.md](week-5.md) | Week 5 | Stack + Queue (§13–14) + LeetCode catch-up |
-| [week-6.md](week-6.md) | Week 6 | Sorting + Search (§20 + §7 revisit) |
-| [week-7.md](week-7.md) | Week 7 | Recurrence Relations + Asymptotic Notation + D&C (§23–25) |
-| [week-8.md](week-8.md) | Week 8 | Binary Trees (§15) |
-| [week-9.md](week-9.md) | Week 9 | Binary Search Trees (§16) |
-| [week-10.md](week-10.md) | Week 10 | AVL Trees + 2-3/2-3-4/Red-Black Trees (§17–18) |
-| [week-11.md](week-11.md) | Week 11 | Heap + Hashing (§19, §21) |
-| [week-12.md](week-12.md) | Week 12 | Graphs — BFS, DFS, Union-Find (§22) |
-| [week-13.md](week-13.md) | Week 13 | Greedy Algorithms (§26) |
-| [week-14.md](week-14.md) | Week 14 | Dynamic Programming (§27) |
-| [week-15.md](week-15.md) | Week 15 | Backtracking (§28) + Final LeetCode Revision Pass |
+This roadmap combines deep fundamental theory (pointers, memory layouts, recurrence relations) with hands-on problem solving on **LeetCode**.
 
 ---
 
-## 📁 Recommended Repo Folder Structure
+## 🎯 Core Objectives
 
-```
+- 🧱 **Strong Low-Level Foundations**: Master pointers, heap vs. stack memory allocation, dynamic data structures, and OOP in C/C++.
+- 📐 **Rigorous Algorithmic Thinking**: Understand time and space complexity, recurrence relations, and mathematical proofs behind algorithms.
+- ⚡ **Patterns & Problem Solving**: Build intuition across 150+ curated LeetCode problems categorized by topic.
+- 🛠️ **Clean & Modular Code**: Re-implement foundational data structures from scratch with modular, clean, and reproducible code.
+
+---
+
+## 📚 Curriculum & Resources
+
+1. **Foundations & Core DSA**: Abdul Bari’s *Mastering Data Structures & Algorithms using C and C++*
+2. **Systems & Memory**: Harvard’s *CS50x* (Memory & Algorithm Modules)
+3. **Problem Solving**: Curated *LeetCode* progression (Arrays, Trees, Graphs, DP, etc.)
+
+---
+
+## 🗺️ 16-Week Master Index
+
+Each week has a dedicated actionable blueprint in the [`weekly-plans/`](weekly-plans/) directory with daily checklists, core concepts, video references, and targeted LeetCode problems.
+
+| Week | Topic | Curriculum Reference | Weekly Plan |
+|:---:|:---|:---|:---:|
+| **00** | C/C++ Bridge & Language Basics | Abdul Bari §2 + CS50x W1 | [week-0.md](weekly-plans/week-0.md) |
+| **01** | Recursion & Tracing | Abdul Bari §4–§5 | [week-1.md](weekly-plans/week-1.md) |
+| **02** | Arrays & Array ADT | Abdul Bari §6–§7 | [week-2.md](weekly-plans/week-2.md) |
+| **03** | Strings, Matrices & Polynomials | Abdul Bari §8–§10 | [week-3.md](weekly-plans/week-3.md) |
+| **04** | Pointers, Dynamic Memory & Linked Lists | CS50x W4 + Abdul Bari §11–§12 | [week-4.md](weekly-plans/week-4.md) |
+| **05** | Stacks & Queues | Abdul Bari §13–§14 | [week-5.md](weekly-plans/week-5.md) |
+| **06** | Sorting & Searching Algorithms | Abdul Bari §20 + §7 | [week-6.md](weekly-plans/week-6.md) |
+| **07** | Recurrence Relations, Asymptotics & Divide-and-Conquer | Abdul Bari §23–§25 | [week-7.md](weekly-plans/week-7.md) |
+| **08** | Binary Trees (Representations & Traversals) | Abdul Bari §15 | [week-8.md](weekly-plans/week-8.md) |
+| **09** | Binary Search Trees (BST) | Abdul Bari §16 | [week-9.md](weekly-plans/week-9.md) |
+| **10** | Balanced Trees (AVL, 2-3, Red-Black) | Abdul Bari §17–§18 | [week-10.md](weekly-plans/week-10.md) |
+| **11** | Heaps & Hashing Techniques | Abdul Bari §19, §21 | [week-11.md](weekly-plans/week-11.md) |
+| **12** | Graph Algorithms (BFS, DFS, MST, Shortest Paths) | Abdul Bari §22 | [week-12.md](weekly-plans/week-12.md) |
+| **13** | Greedy Algorithms | Abdul Bari §26 | [week-13.md](weekly-plans/week-13.md) |
+| **14** | Dynamic Programming (1D & 2D) | Abdul Bari §27 | [week-14.md](weekly-plans/week-14.md) |
+| **15** | Backtracking & Final Review Pass | Abdul Bari §28 + LeetCode Revision | [week-15.md](weekly-plans/week-15.md) |
+
+---
+
+## 📁 Repository Structure
+
+```text
 dsa-journey/
-├── README.md                  ← Progress table + weekly summary
-├── c-cpp/
-│   ├── week0-bridge/          ← Abdul Bari §2 re-coded files
+├── README.md                  ← Master index, overview & progress tracker
+├── weekly-plans/              ← 16 actionable weekly study plans (Week 0 to Week 15)
+│   ├── week-0.md
+│   ├── week-1.md
+│   └── ...
+├── c-cpp/                     ← Core data structure implementations & drills
+│   ├── week0-bridge/
 │   ├── week1-recursion/
 │   ├── week2-arrays/
-│   └── ... (one folder per week)
-├── cs50x/
+│   └── ...
+├── cs50x/                     ← Harvard CS50x problem sets & memory exercises
 │   ├── week1-mario.c
 │   ├── week2-readability.c
-│   └── week4-filter-less/
-├── leetcode/
-│   ├── week1/
-│   │   ├── 509_fibonacci.cpp
-│   │   ├── 326_power_of_three.cpp
-│   │   └── ...
-│   ├── week2/
-│   └── ...
-└── notes/
-    ├── week1-notes.md
-    ├── week2-notes.md
+│   └── week4-filter/
+└── leetcode/                  ← Weekly categorized LeetCode solutions (C++)
+    ├── week1/
+    ├── week2/
     └── ...
 ```
 
 ---
 
-## ⚙️ The Daily Loop (weekdays, ~1.5–2 hrs)
+## 📊 Progress Tracker
 
-> Do these **in this order**, every single day:
-
-1. **🎬 Abdul Bari video** (30–45 min, at 1.25–1.5× speed)
-   - Watch the day's segment fully
-   - **Close the video** and re-implement the code from memory — no side-by-side coding
-   - Blank on a step? That's your actual weak point — note it
-
-2. **💻 LeetCode** (45–60 min) — apply what you just learned
-   - Set a 20 min timer per problem — genuine attempt, zero hints
-   - If stuck at 20 min: look at the *approach only* (not code), then implement yourself
-   - If still stuck: read a solution → close it → re-implement from memory the next day
-   - **Never copy-paste solutions**
-
-3. **💾 Commit + notes** (10 min)
-   - Commit format: `Day N: [Topic] Problem Name (Difficulty)`
-   - Write 2–3 line `notes.md` entry while it's fresh
-
----
-
-## 🏖️ Anti-Burnout Rules
-
-- **One scheduled rest day per week** — pick it in advance (e.g. every Wednesday)
-- **Cap struggle time at 20–25 min** per problem before taking a hint
-- **Every 3rd weekend**: zero new material — re-solve 2–3 problems from 2–3 weeks back without your old code
-- **LinkedIn cadence**: weekly on Sunday/Monday, never daily
+| Week | Topic | Target Problems | Status |
+|:---:|:---|:---:|:---:|
+| **0** | C/C++ Bridge + CS50x W1 | Core Code Drills | ✅ Done |
+| **1** | Recursion | 10 Problems | 🔄 In Progress |
+| **2** | Arrays & Array ADT | 10 Problems | ⏳ Upcoming |
+| **3** | Strings & Matrices | 10 Problems | ⏳ Upcoming |
+| **4** | Memory & Linked Lists | 10 Problems | ⏳ Upcoming |
+| **5** | Stack & Queue | 10 Problems | ⏳ Upcoming |
+| **6** | Sorting & Searching | 9 Problems | ⏳ Upcoming |
+| **7** | Recurrence & D&C | 9 Problems | ⏳ Upcoming |
+| **8** | Binary Trees | 10 Problems | ⏳ Upcoming |
+| **9** | Binary Search Trees | 5 Problems | ⏳ Upcoming |
+| **10** | AVL & Red-Black Trees | 10 Problems | ⏳ Upcoming |
+| **11** | Heap & Hashing | 10 Problems | ⏳ Upcoming |
+| **12** | Graphs | 10 Problems | ⏳ Upcoming |
+| **13** | Greedy Algorithms | 6 Problems | ⏳ Upcoming |
+| **14** | Dynamic Programming | 7 Problems | ⏳ Upcoming |
+| **15** | Backtracking & Final Review | 10 Problems | ⏳ Upcoming |
 
 ---
 
-## 📊 Overall Progress
+## 🛠️ Quick Start & Compilation
 
-| Week | Topic | LeetCode Problems | Done? |
-|------|-------|-------------------|-------|
-| 0 | C/C++ Bridge + CS50X W1 | 0 (code drills) | ☐ |
-| 1 | Recursion | 10 | ☐ |
-| 2 | Arrays | 10 | ☐ |
-| 3 | Strings + Matrices | 10 | ☐ |
-| 4 | CS50X Memory + Linked List | 10 | ☐ |
-| 5 | Stack + Queue | 10 | ☐ |
-| 6 | Sorting + Search | 9 | ☐ |
-| 7 | Recurrence + D&C | 9 | ☐ |
-| 8 | Binary Trees | 10 | ☐ |
-| 9 | BST | 5 | ☐ |
-| 10 | AVL + RB Trees | 10 | ☐ |
-| 11 | Heap + Hashing | 10 | ☐ |
-| 12 | Graphs | 10 | ☐ |
-| 13 | Greedy | 6 | ☐ |
-| 14 | DP | 7 | ☐ |
-| 15 | Backtracking + Revision | 10 | ☐ |
+To compile and run any C or C++ program in this repository:
+
+### For C Programs
+```bash
+gcc -Wall -Wextra -O2 c-cpp/week0-bridge/arrays_basics.c -o solution
+./solution
+```
+
+### For C++ Programs
+```bash
+g++ -std=c++17 -Wall -Wextra -O2 c-cpp/week0-bridge/rectangleOOP.cpp -o solution
+./solution
+```
 
 ---
 
-*Reminder: You're doing this because you want that 40–60 LPA product role. Trust the system, show up daily, and let compounding do the rest.*
+## 🤝 Connect & Feedback
+
+I am documenting this journey publicly to stay accountable and share learnings with fellow developers.
+
+- 💬 Suggestions or better approaches? Feel free to open an issue or start a discussion!
+- 🔗 Connect on **[LinkedIn](https://www.linkedin.com)**
+
+

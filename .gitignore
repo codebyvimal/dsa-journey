@@ -1,19 +1,45 @@
-# Executables
-*.exe
+# Executables and binaries
 *.out
+*.exe
 *.app
+*.bin
+a.out
+*.elf
 
-# Object files and libraries
+# Compiled Object files
 *.o
 *.obj
 *.a
 *.la
 *.lo
 *.so
-*.dll
 *.dylib
+*.dll
 
-# IDE or build directories (Optional)
+# Debugging and profiling
+*.dSYM/
+*.pdb
+*.ilk
+*.suo
+*.idb
+gmon.out
+
+# IDE and Editor configurations
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+.clangd/
+.cache/
+
+# Build and temporary directories
 build/
-cmake-build-debug/
+bin/
+out/
+cmake-build-*/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
