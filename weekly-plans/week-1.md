@@ -20,11 +20,11 @@ By end of Week 1, you should be able to:
 
 ### 🎬 Abdul Bari Videos (watch → close → re-code)
 
-- [ ] **46. How Recursion Works (Tracing)** — 19 min
-- [ ] **47. Generalising Recursion** — 2 min
-- [ ] **48. How Recursion uses Stack** — 11 min
-- [ ] **49. Recurrence Relation — Time Complexity** — 11 min
-- [ ] **50. Let's Code Recursion** — 12 min
+- [x] **46. How Recursion Works (Tracing)** — 19 min
+- [x] **47. Generalising Recursion** — 2 min
+- [x] **48. How Recursion uses Stack** — 11 min
+- [x] **49. Recurrence Relation — Time Complexity** — 11 min
+- [x] **50. Let's Code Recursion** — 12 min
 - [ ] **51. Static and Global Variables in Recursion** — 8 min
 - [ ] **52. Let's Code Static and Global** — 7 min
 - [ ] **53. Tail Recursion** — 7 min

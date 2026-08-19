@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Target for This Week  -
+## 🎯 Target for This Week 
 
 By end of Week 15, you should be able to:
 - Implement Backtracking as "recursion + undo" — try a choice, recurse, undo if it fails
