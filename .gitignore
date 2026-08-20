@@ -43,3 +43,6 @@ cmake-build-*/
 .DS_Store
 Thumbs.db
 
+.zed/
+
+
