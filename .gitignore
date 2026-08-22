@@ -6,6 +6,22 @@
 a.out
 *.elf
 
+# Linux extensionless executables pattern (common binaries)
+/[!.]*
+!/**/
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*.md
+!*.txt
+!*.json
+!*.sh
+!*.yaml
+!*.yml
+!LICENSE
+!Makefile
+
 # Compiled Object files
 *.o
 *.obj
@@ -32,6 +48,7 @@ gmon.out
 *~
 .clangd/
 .cache/
+.zed/
 
 # Build and temporary directories
 build/
@@ -43,6 +60,5 @@ cmake-build-*/
 .DS_Store
 Thumbs.db
 
-.zed/
 
 
