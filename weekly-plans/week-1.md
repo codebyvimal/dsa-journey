@@ -25,14 +25,14 @@ By end of Week 1, you should be able to:
 - [x] **48. How Recursion uses Stack** — 11 min
 - [x] **49. Recurrence Relation — Time Complexity** — 11 min
 - [x] **50. Let's Code Recursion** — 12 min
-- [ ] **51. Static and Global Variables in Recursion** — 8 min
-- [ ] **52. Let's Code Static and Global** — 7 min
-- [ ] **53. Tail Recursion** — 7 min
-- [ ] **54. Head Recursion** — 5 min
-- [ ] **55. Tree Recursion** — 17 min
-- [ ] **56. Let's Code Tree Recursion** — 6 min
-- [ ] **57. Indirect Recursion** — 5 min
-- [ ] **58. Let's Code Indirect Recursion** — 3 min
+- [x] **51. Static and Global Variables in Recursion** — 8 min
+- [x] **52. Let's Code Static and Global** — 7 min
+- [x] **53. Tail Recursion** — 7 min
+- [x] **54. Head Recursion** — 5 min
+- [x] **55. Tree Recursion** — 17 min
+- [x] **56. Let's Code Tree Recursion** — 6 min
+- [x] **57. Indirect Recursion** — 5 min
+- [x] **58. Let's Code Indirect Recursion** — 3 min
 - [ ] **59. Nested Recursion** — 7 min
 - [ ] **60. Let's Code Nested Recursion** — 2 min
 - [ ] **61. Sum of Natural Numbers using Recursion** — 10 min

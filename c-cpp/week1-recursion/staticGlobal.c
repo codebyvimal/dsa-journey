@@ -2,7 +2,7 @@
 
 int fun(int n)
 {
-    static int x=0;
+    static int x=0; // This is nothing but global variable but exclusive for this function
     if (n>0)
     {
         
