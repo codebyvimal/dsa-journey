@@ -33,8 +33,8 @@ By end of Week 1, you should be able to:
 - [x] **56. Let's Code Tree Recursion** — 6 min
 - [x] **57. Indirect Recursion** — 5 min
 - [x] **58. Let's Code Indirect Recursion** — 3 min
-- [ ] **59. Nested Recursion** — 7 min
-- [ ] **60. Let's Code Nested Recursion** — 2 min
+- [x] **59. Nested Recursion** — 7 min
+- [x] **60. Let's Code Nested Recursion** — 2 min
 - [ ] **61. Sum of Natural Numbers using Recursion** — 10 min
 - [ ] **62. Let's Code Sum of N** — 4 min
 - [ ] **63. Factorial using Recursion** — 5 min
