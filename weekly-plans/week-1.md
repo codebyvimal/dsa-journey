@@ -35,20 +35,20 @@ By end of Week 1, you should be able to:
 - [x] **58. Let's Code Indirect Recursion** — 3 min
 - [x] **59. Nested Recursion** — 7 min
 - [x] **60. Let's Code Nested Recursion** — 2 min
-- [ ] **61. Sum of Natural Numbers using Recursion** — 10 min
-- [ ] **62. Let's Code Sum of N** — 4 min
-- [ ] **63. Factorial using Recursion** — 5 min
-- [ ] **64. Let's Code Factorial** — 5 min
-- [ ] **65. Power using Recursion** — 14 min
-- [ ] **66. Let's Code Power Recursion** — 3 min
-- [ ] **67. Taylor Series using Recursion** — 14 min
-- [ ] **68. Let's Code Taylor Series** — 4 min
-- [ ] **72. Fibonacci Series — Memoization** — 20 min ⭐ important
-- [ ] **73. Let's Code Fibonacci** — 13 min
-- [ ] **74. nCr using Recursion** — 9 min
-- [ ] **75. Let's Code nCr** — 5 min
-- [ ] **76. Tower of Hanoi Problem** — 26 min ⭐ important
-- [ ] **77. Let's Code Tower of Hanoi** — 4 min
+- [x] **61. Sum of Natural Numbers using Recursion** — 10 min
+- [x] **62. Let's Code Sum of N** — 4 min
+- [x] **63. Factorial using Recursion** — 5 min
+- [x] **64. Let's Code Factorial** — 5 min
+- [x] **65. Power using Recursion** — 14 min
+- [x] **66. Let's Code Power Recursion** — 3 min
+- [x] **67. Taylor Series using Recursion** — 14 min
+- [x] **68. Let's Code Taylor Series** — 4 min
+- [x] **72. Fibonacci Series — Memoization** — 20 min ⭐ important
+- [x] **73. Let's Code Fibonacci** — 13 min
+- [x] **74. nCr using Recursion** — 9 min
+- [x] **75. Let's Code nCr** — 5 min
+- [x] **76. Tower of Hanoi Problem** — 26 min ⭐ important
+- [x] **77. Let's Code Tower of Hanoi** — 4 min
 - [ ] **78. Quiz 1 Solutions** — 31 min (watch lightly, check your answers)
 
 > Videos 67–71 (Taylor Series / Horner's Rule) are optional if time is tight — skip them and come back.
