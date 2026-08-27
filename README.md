@@ -85,8 +85,8 @@ dsa-journey/
 | Week | Topic | Target Problems | Status |
 |:---:|:---|:---:|:---:|
 | **0** | C/C++ Bridge + CS50x W1 | Core Code Drills | ✅ Done |
-| **1** | Recursion | 10 Problems | 🔄 In Progress |
-| **2** | Arrays & Array ADT | 10 Problems | ⏳ Upcoming |
+| **1** | Recursion | 10 Problems | ✅ Done |
+| **2** | Arrays & Array ADT | 10 Problems | 🔄 In Progress |
 | **3** | Strings & Matrices | 10 Problems | ⏳ Upcoming |
 | **4** | Memory & Linked Lists | 10 Problems | ⏳ Upcoming |
 | **5** | Stack & Queue | 10 Problems | ⏳ Upcoming |
@@ -127,5 +127,3 @@ I am documenting this journey publicly to stay accountable and share learnings w
 
 - 💬 Suggestions or better approaches? Feel free to open an issue or start a discussion!
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/codebyvimal)**
-
-
