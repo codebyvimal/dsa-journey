@@ -103,24 +103,6 @@ dsa-journey/
 
 ---
 
-## 🛠️ Quick Start & Compilation
-
-To compile and run any C or C++ program in this repository:
-
-### For C Programs
-```bash
-gcc -Wall -Wextra -O2 c-cpp/week0-bridge/arrays_basics.c -o solution
-./solution
-```
-
-### For C++ Programs
-```bash
-g++ -std=c++17 -Wall -Wextra -O2 c-cpp/week0-bridge/rectangleOOP.cpp -o solution
-./solution
-```
-
----
-
 ## 🤝 Connect & Feedback
 
 I am documenting this journey publicly to stay accountable and share learnings with fellow developers.

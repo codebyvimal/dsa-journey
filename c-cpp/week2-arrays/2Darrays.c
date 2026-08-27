@@ -9,18 +9,18 @@ int main()
     int **C;
     int i,j;
 
-    for (i=0;i<3;i++) 
+    for (i=0;i<3;i++)
     {
         for (j=0;j<4;j++)
             printf("%d ",A[i][j]);
         printf("\n");
     }
-    
+
     B[0]=(int *)malloc(4*sizeof(int));
     B[1]=(int *)malloc(4*sizeof(int));
     B[2]=(int *)malloc(4*sizeof(int));
 
-    for (i=0;i<3;i++) 
+    for (i=0;i<3;i++)
     {
         for (j=0;j<4;j++)
             printf("%d ",B[i][j]);
@@ -32,14 +32,14 @@ int main()
     C[1]=(int *)malloc(4*sizeof(int));
     C[2]=(int *)malloc(4*sizeof(int));
 
-    for (i=0;i<3;i++) 
+    for (i=0;i<3;i++)
     {
         for (j=0;j<4;j++)
-            printf("%d ",C[i][j]);
+            printf("%d",C[i][j]);
         printf("\n");
     }
 
-    
+
 
     return 0;
 }
