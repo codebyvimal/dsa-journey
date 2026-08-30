@@ -21,15 +21,15 @@ By end of Week 2, you should be able to:
 
 #### §6 — Array Representations (1 hr 54 min)
 
-- [ ] **79. Introduction to Array** — 4 min
-- [ ] **80. Declarations of Array** — 6 min
-- [ ] **81. Demo — Array Declaration** — 5 min
-- [ ] **82. Static vs Dynamic Array** — 9 min
-- [ ] **83. How to increase size of Array** — 4 min
-- [ ] **84. 2D Array** — 7 min
-- [ ] **85. Array Representation by Compiler** — 11 min
-- [ ] **86. Row Major Formula for 2D Arrays** — 9 min
-- [ ] **87. Column Major Formula for 2D Arrays** — 9 min
+- [x] **79. Introduction to Array** — 4 min
+- [x] **80. Declarations of Array** — 6 min
+- [x] **81. Demo — Array Declaration** — 5 min
+- [x] **82. Static vs Dynamic Array** — 9 min
+- [x] **83. How to increase size of Array** — 4 min
+- [x] **84. 2D Array** — 7 min
+- [x] **85. Array Representation by Compiler** — 11 min
+- [x] **86. Row Major Formula for 2D Arrays** — 9 min
+- [x] **87. Column Major Formula for 2D Arrays** — 9 min
 - [ ] **88. Formulas for nD Arrays** — 14 min (go lightly, concept-level)
 - [ ] **89. Array representation in C++** — 14 min (important)
 
